@@ -18,7 +18,7 @@
       - timestamp = Evaluation date
 # Road Map
 - 1. Preparation of Data Set
-- 2. Determining the Films Watched by the User to Make Suggestion
+- 2. Determining the Films Watched by the User to Make Suggestions
 - 3. Accessing Data and Ids of Other Users Watching the Same Films
 - 4. Determining the Users Most Similar to the User to Make Suggestion
 - 5. Calculation of Weighted Average Recommendation Score
