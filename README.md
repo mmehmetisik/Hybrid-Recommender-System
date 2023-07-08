@@ -21,5 +21,5 @@
 - 2. Determining the Films Watched by the User to Make Suggestions
 - 3. Accessing Data and Ids of Other Users Watching the Same Films
 - 4. Determining the Users Most Similar to the User to Make Suggestion.
-- 5. Calculation of Weighted Average Recommendation Score
+- 5. Calculation of Weighted Average Recommendation Score.
 - 6. Item-Based Recommendation
